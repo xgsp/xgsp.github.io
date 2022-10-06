@@ -1776,8 +1776,8 @@ li.active
 #activity_show
 {
 	/* cursor: pointer; */
-	width: 620px;
-	height: 530px;
+	width: 690px;
+	height: 600px;
 	border-radius: 5px;
 	display: flex;
 	flex-direction: column;
@@ -1794,8 +1794,8 @@ li.active
 
 #activity_show .img
 {
-	width: 590px;
-	height: 500px
+	width: 690px;
+	height: 600px
 }
 
 .activity_close
